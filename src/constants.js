@@ -42,54 +42,24 @@ import AIPDFNoteTake from './assets/work_logo/AI-pdf-note-taker.png';
 
 
 export const SkillsInfo = [
+  
+ 
   {
-    title: 'Frontend',
+    title: 'Hobbies',
     skills: [
-      { name: 'HTML', logo: htmlLogo },
-      { name: 'CSS', logo: cssLogo },
-      // { name: 'SASS', logo: sassLogo },
-      { name: 'JavaScript', logo: javascriptLogo },
-      { name: 'React JS', logo: reactjsLogo },
-      // { name: 'Angular', logo: angularLogo },
-      // { name: 'Redux', logo: reduxLogo },
-      // { name: 'Next JS', logo: nextjsLogo },
-      { name: 'Tailwind CSS', logo: tailwindcssLogo },
-      // { name: 'GSAP', logo: gsapLogo },
-      { name: 'Material UI', logo: materialuiLogo },
-      { name: 'Bootstrap', logo: bootstrapLogo },
+      { name: 'Roll Ball', logo: cLogo },
+      { name: 'Passion', logo: cppLogo },
+      
     ],
   },
+
   {
-    title: 'Backend',
+    title: 'Skills',
     skills: [
-      // { name: 'Springboot', logo: springbootLogo },
-      { name: 'Node JS', logo: nodejsLogo },
-      { name: 'Express JS', logo: expressjsLogo },
-      { name: 'MySQL', logo: mysqlLogo },
-      { name: 'MongoDB', logo: mongodbLogo },
-      // { name: 'Firebase', logo: firebaseLogo },
-      // { name: 'PostgreSQL', logo: postgreLogo },
-    ],
-  },
-  {
-    title: 'Languages',
-    skills: [
-      { name: 'C', logo: cLogo },
-      { name: 'C++', logo: cppLogo },
-      { name: 'Java', logo: javaLogo },
-      // { name: 'Python', logo: pythonLogo },
-      // { name: 'C-Sharp', logo: csharpLogo },
-      { name: 'JavaScript', logo: javascriptLogo },
-      // { name: 'TypeScript', logo: typescriptLogo },
-    ],
-  },
-  {
-    title: 'Tools',
-    skills: [
-      { name: 'Git', logo: gitLogo },
       { name: 'GitHub', logo: githubLogo },
       { name: 'VS Code', logo: vscodeLogo },
-      { name: 'Postman', logo: postmanLogo },
+      { name: 'Matlab', logo: postmanLogo },
+       { name: 'Autocad', logo: gitLogo },
       // { name: 'Compass', logo: mcLogo },
       // { name: 'Vercel', logo: vercelLogo },
       // { name: 'Netlify', logo: netlifyLogo },
