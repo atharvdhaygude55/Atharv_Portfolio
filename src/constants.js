@@ -48,7 +48,7 @@ export const SkillsInfo = [
     title: 'Hobbies',
     skills: [
       { name: 'Roll Ball', logo: cLogo },
-      { name: 'Passion', logo: cppLogo },
+      { name: 'Travelling', logo: cppLogo },
       
     ],
   },
