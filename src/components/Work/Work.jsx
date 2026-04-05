@@ -66,7 +66,11 @@ const Work = () => {
 
       {/* Modal Container */}
       {selectedProject && (
+<<<<<<< HEAD
         <div className="fixed inset-0 z-40 flex items-center justify-center bg-black bg-opacity-90 p-4">
+=======
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-90 p-4">
+>>>>>>> a8145ec31ba80b6519609ade73cac7f7f98e722c
           <div className="bg-gray-900 rounded-xl shadow-2xl lg:w-full w-[90%] max-w-3xl overflow-hidden relative">
             <div className="flex justify-end p-4">
               <button

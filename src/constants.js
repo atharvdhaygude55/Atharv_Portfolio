@@ -39,6 +39,7 @@ import freelancerlogo from './assets/work_logo/freelancer_hub_logo.png';
 import whether_logo from './assets/work_logo/whether_app.png';
 import AIPDFNoteTake from './assets/work_logo/AI-pdf-note-taker.png';
 
+<<<<<<< HEAD
 import pic1 from './assets/Hobbyimages/pic1.jpeg'
 import pic2 from './assets/Hobbyimages/pic2.jpeg'
 import pic3 from './assets/Hobbyimages/pic3.jpeg'
@@ -58,6 +59,9 @@ import r1 from './assets/Hobbyimages/r1.jpg'
 import r2 from './assets/Hobbyimages/r2.jpg'
 import r3 from './assets/Hobbyimages/r3.jpg'
 import r4 from './assets/Hobbyimages/r4.jpg'
+=======
+
+>>>>>>> a8145ec31ba80b6519609ade73cac7f7f98e722c
 
 export const SkillsInfo = [
   
@@ -65,6 +69,7 @@ export const SkillsInfo = [
   {
     title: 'Hobbies',
     skills: [
+<<<<<<< HEAD
       { 
         name: 'Roll Ball', 
         logo: cLogo,
@@ -81,6 +86,11 @@ export const SkillsInfo = [
         
         ]
       },
+=======
+      { name: 'Roll Ball', logo: cLogo },
+      { name: 'Travelling', logo: cppLogo },
+      
+>>>>>>> a8145ec31ba80b6519609ade73cac7f7f98e722c
     ],
   },
 
@@ -163,7 +173,19 @@ export const SkillsInfo = [
       date: "2025 - 2029 ",
       degree: "Mechanical Engineering (Btech) ",
     },
+<<<<<<< HEAD
     
+=======
+    // {
+    //   id: 1,
+    //   img: bsaLogo,
+    //   school: "BSA College, Mathura",
+    //   date: "Sept 2018 - Aug 2021",
+    //   grade: "73.2%",
+    //   desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from BSA College, Mathura. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
+    //   degree: "Bachelor of Science - BSC (Computer Science)",
+    // },
+>>>>>>> a8145ec31ba80b6519609ade73cac7f7f98e722c
     {
       id: 2,
       img: logo_12th,
